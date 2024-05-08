@@ -9,3 +9,7 @@ A Hadoop cluster and Hive processing were used for all of the analysis in this r
 
 * Details about Dataset
   ---------------------
+
+Once you are logged into kaggke, click on the following link to see the information of project and dataset: https://www.kaggle.com/datasets/naveedhn/amazon-product-review-spam-and-non-spam 
+
+You will be redirected to the Amazon Product Review ( Spam and Non-Spam ) dataset page. You can see download button at top right corner, click on the arrow to start to download the data file.
