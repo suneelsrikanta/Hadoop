@@ -1,4 +1,5 @@
-See the wiki section for more details of project - https://github.com/suneelsrikanta/Hadoop_Product_Reviews-Spam-Non-Spam-.wiki.git
+See the wiki section for more details of project : 
+https://github.com/suneelsrikanta/Hadoop_Product_Reviews-Spam-Non-Spam-.wiki.git
 
 # Hadoop_Amazon_Product_Reviews ( Spam and Non-Spam )
 ------------------------------------------------------
